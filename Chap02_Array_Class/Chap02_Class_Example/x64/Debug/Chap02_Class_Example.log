@@ -1,2 +1,2 @@
 ﻿  main.cpp
-  Chap02_Class_Example.vcxproj -> C:\Users\USER\Documents\data_structure_lab_2024\Chap02_Array_Class\x64\Debug\Chap02_Class_Example.exe
+C:\Users\USER\Documents\data_structure_lab_2024\Chap02_Array_Class\Chap02_Class_Example\main.cpp(6,10): error C1083: 포함 파일을 열 수 없습니다. 'MusicStreamingService.h': No such file or directory
