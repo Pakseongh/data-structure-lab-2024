@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\USER\Documents\data_structure_lab_2024\Chap08_DFS_BFS\Chap08_DFS_BFS\main.cpp(5,20): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\USER\Documents\data_structure_lab_2024\Chap08_DFS_BFS\Chap08_DFS_BFS\main.cpp(5,10): error C2146: 구문 오류: ';'이(가) 'MAZE_SIZE' 식별자 앞에 없습니다.
+C:\Users\USER\Documents\data_structure_lab_2024\Chap08_DFS_BFS\Chap08_DFS_BFS\main.cpp(6,10): error C2065: 'MAZE_SIZE': 선언되지 않은 식별자입니다.
+C:\Users\USER\Documents\data_structure_lab_2024\Chap08_DFS_BFS\Chap08_DFS_BFS\main.cpp(6,21): error C2065: 'MAZE_SIZE': 선언되지 않은 식별자입니다.
+C:\Users\USER\Documents\data_structure_lab_2024\Chap08_DFS_BFS\Chap08_DFS_BFS\main.cpp(16,29): error C2065: 'MAZE_SIZE': 선언되지 않은 식별자입니다.
+C:\Users\USER\Documents\data_structure_lab_2024\Chap08_DFS_BFS\Chap08_DFS_BFS\main.cpp(16,47): error C2065: 'MAZE_SIZE': 선언되지 않은 식별자입니다.
+C:\Users\USER\Documents\data_structure_lab_2024\Chap08_DFS_BFS\Chap08_DFS_BFS\main.cpp(18,1): error C2036: 'char [0][0]': 알 수 없는 크기입니다.
+C:\Users\USER\Documents\data_structure_lab_2024\Chap08_DFS_BFS\Chap08_DFS_BFS\main.cpp(18,15): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+C:\Users\USER\Documents\data_structure_lab_2024\Chap08_DFS_BFS\Chap08_DFS_BFS\main.cpp(34,14): error C3863: 배열 형식 'char [0][0]'은(는) 할당할 수 없습니다.
+C:\Users\USER\Documents\data_structure_lab_2024\Chap08_DFS_BFS\Chap08_DFS_BFS\main.cpp(42,1): error C2036: 'char [0][0]': 알 수 없는 크기입니다.
